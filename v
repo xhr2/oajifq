@@ -1,1 +1,1 @@
-{"n":"1.0.5","b":6,"f":"e37ebc4246fb50ed","h":"3dc9eee0e47813cfa4551274bc6f22126ca30d2c45afd8a4d2dec5f181be9067","d":"v1.6yrN-ZBsONZ1aCgdtHjpKOFTsMWWY0oO8IRYCaTPD644XQU2otLtZGYhVLGhcy2ywGo02RZYudzUa5PyvDeYXt7y9xi4Ck3lfVX4F30Pw-i7p5W3zF03bcFCX79TiMxIkIuHdTNDxzEa9w=="}
+{"n":"1.0.6","b":7,"f":"abdd7fb11fcc3da7","h":"c60413ab7c56667e2ea86fec2080c3c721d1a075225326c9ef3957825c4dde29","d":"v1.nvfbreWRxqxYQ0CfojZoqsuo0aZ467LHcBlP1PF6PMRVe8zMMKf0iNveGI5_4KApRNz7z9wZ9oCPqG-j7uvv3_rJanC1EyBttf-Olas76C4KtnLBN7LAjO-2vtZ3-HkX0HITyjcSjkxxLFwYIc_GlcjybhoCb4fJVFFbkw=="}
